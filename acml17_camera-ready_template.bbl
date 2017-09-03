@@ -1,0 +1,176 @@
+\begin{thebibliography}{26}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Berg and Belhumeur(2013)]{POOF}
+Thomas Berg and Peter Belhumeur.
+\newblock Poof: Part-based one-vs.-one features for fine-grained
+  categorization, face verification, and attribute estimation.
+\newblock In \emph{Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 955--962, 2013.
+
+\bibitem[Bourdev et~al.(2011)Bourdev, Maji, and Malik]{poselet}
+Lubomir Bourdev, Subhransu Maji, and Jitendra Malik.
+\newblock Describing people: A poselet-based approach to attribute
+  classification.
+\newblock In \emph{Computer Vision (ICCV), 2011 IEEE International Conference
+  on}, pages 1543--1550. IEEE, 2011.
+
+\bibitem[Girshick(2015)]{fastrcnn}
+Ross Girshick.
+\newblock Fast r-cnn.
+\newblock In \emph{Proceedings of the IEEE International Conference on Computer
+  Vision}, pages 1440--1448, 2015.
+
+\bibitem[G{\"{u}}nther et~al.(2016)G{\"{u}}nther, Rozsa, and Boult]{AFFACT}
+Manuel G{\"{u}}nther, Andras Rozsa, and Terrance~E. Boult.
+\newblock {AFFACT} - alignment free facial attribute classification technique.
+\newblock \emph{CoRR}, abs/1611.06158, 2016.
+
+\bibitem[Hand and Chellappa(2016)]{MCNN}
+Emily~M Hand and Rama Chellappa.
+\newblock Attributes for improved attributes: A multi-task network for
+  attribute classification.
+\newblock \emph{arXiv preprint arXiv:1604.07360}, 2016.
+
+\bibitem[Huang et~al.(2007)Huang, Ramesh, Berg, and Learned-Miller]{LFW}
+Gary~B Huang, Manu Ramesh, Tamara Berg, and Erick Learned-Miller.
+\newblock Labeled faces in the wild: A database for studying face recognition
+  in unconstrained environments.
+\newblock \emph{Technical Report 07-49, University of Massachusetts, Amherst},
+  2007.
+
+\bibitem[Huang et~al.(2014)Huang, Song, Hong, and Xie]{multi3}
+Wenhao Huang, Guojie Song, Haikun Hong, and Kunqing Xie.
+\newblock Deep architecture for traffic flow prediction: deep belief networks
+  with multitask learning.
+\newblock \emph{IEEE Transactions on Intelligent Transportation Systems},
+  15\penalty0 (5):\penalty0 2191--2201, 2014.
+
+\bibitem[Ioffe and Szegedy(2015)]{BatchNorm}
+Sergey Ioffe and Christian Szegedy.
+\newblock Batch normalization: Accelerating deep network training by reducing
+  internal covariate shift.
+\newblock \emph{arXiv preprint arXiv:1502.03167}, 2015.
+
+\bibitem[Jia et~al.(2014)Jia, Shelhamer, Donahue, Karayev, Long, Girshick,
+  Guadarrama, and Darrell]{Caffe}
+Yangqing Jia, Evan Shelhamer, Jeff Donahue, Sergey Karayev, Jonathan Long, Ross
+  Girshick, Sergio Guadarrama, and Trevor Darrell.
+\newblock Caffe: Convolutional architecture for fast feature embedding.
+\newblock In \emph{Proceedings of the 22nd ACM international conference on
+  Multimedia}, pages 675--678. ACM, 2014.
+
+\bibitem[Krizhevsky et~al.(2012)Krizhevsky, Sutskever, and Hinton]{AlexNet}
+Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In \emph{Advances in neural information processing systems}, pages
+  1097--1105, 2012.
+
+\bibitem[Kumar et~al.(2009)Kumar, Berg, Belhumeur, and Nayar]{2009attribute}
+Neeraj Kumar, Alexander~C Berg, Peter~N Belhumeur, and Shree~K Nayar.
+\newblock Attribute and simile classifiers for face verification.
+\newblock In \emph{Computer Vision, 2009 IEEE 12th International Conference
+  on}, pages 365--372. IEEE, 2009.
+
+\bibitem[Liu et~al.(2016)Liu, Anguelov, Erhan, Szegedy, Reed, Fu, and
+  Berg]{liu2016ssd}
+Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed,
+  Cheng-Yang Fu, and Alexander~C Berg.
+\newblock Ssd: Single shot multibox detector.
+\newblock In \emph{European conference on computer vision}, pages 21--37.
+  Springer, 2016.
+
+\bibitem[Liu et~al.(2015)Liu, Luo, Wang, and Tang]{CelebA}
+Ziwei Liu, Ping Luo, Xiaogang Wang, and Xiaoou Tang.
+\newblock Deep learning face attributes in the wild.
+\newblock pages 3730--3738, 2015.
+
+\bibitem[Long et~al.(2015)Long, Shelhamer, and Darrell]{long2015fully}
+Jonathan Long, Evan Shelhamer, and Trevor Darrell.
+\newblock Fully convolutional networks for semantic segmentation.
+\newblock In \emph{Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 3431--3440, 2015.
+
+\bibitem[Luo et~al.(2013)Luo, Tao, Geng, Xu, and Maybank]{multi2}
+Yong Luo, Dacheng Tao, Bo~Geng, Chao Xu, and Stephen~J Maybank.
+\newblock Manifold regularized multitask learning for semi-supervised
+  multilabel image classification.
+\newblock \emph{IEEE Transactions on Image Processing}, 22\penalty0
+  (2):\penalty0 523--536, 2013.
+
+\bibitem[Maurer et~al.(2013)Maurer, Pontil, and Romera-Paredes]{multi4}
+Andreas Maurer, Massi Pontil, and Bernardino Romera-Paredes.
+\newblock Sparse coding for multitask and transfer learning.
+\newblock In \emph{Proceedings of the 30th International Conference on Machine
+  Learning (ICML-13)}, pages 343--351, 2013.
+
+\bibitem[Nair and Hinton(2010)]{ReLU}
+Vinod Nair and Geoffrey~E Hinton.
+\newblock Rectified linear units improve restricted boltzmann machines.
+\newblock In \emph{Proceedings of the 27th international conference on machine
+  learning (ICML-10)}, pages 807--814, 2010.
+
+\bibitem[Redmon and Farhadi(2016)]{yolo9000}
+Joseph Redmon and Ali Farhadi.
+\newblock Yolo9000: better, faster, stronger.
+\newblock \emph{arXiv preprint arXiv:1612.08242}, 2016.
+
+\bibitem[Ren et~al.(2015)Ren, He, Girshick, and Sun]{fasterrcnn}
+Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun.
+\newblock Faster r-cnn: Towards real-time object detection with region proposal
+  networks.
+\newblock In \emph{Advances in neural information processing systems}, pages
+  91--99, 2015.
+
+\bibitem[Romera-Paredes et~al.(2013)Romera-Paredes, Aung, Bianchi-Berthouze,
+  and Pontil]{multi5}
+Bernardino Romera-Paredes, Hane Aung, Nadia Bianchi-Berthouze, and Massimiliano
+  Pontil.
+\newblock Multilinear multitask learning.
+\newblock In \emph{International Conference on Machine Learning}, pages
+  1444--1452, 2013.
+
+\bibitem[Seltzer and Droppo(2013)]{multi1}
+Michael~L Seltzer and Jasha Droppo.
+\newblock Multi-task learning in deep neural networks for improved phoneme
+  recognition.
+\newblock In \emph{Acoustics, Speech and Signal Processing (ICASSP), 2013 IEEE
+  International Conference on}, pages 6965--6969. IEEE, 2013.
+
+\bibitem[Simonyan and Zisserman(2014)]{VGGNet}
+Karen Simonyan and Andrew Zisserman.
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock \emph{arXiv preprint arXiv:1409.1556}, 2014.
+
+\bibitem[Sun et~al.(2014)Sun, Wang, and Tang]{CelebFace}
+Yi~Sun, Xiaogang Wang, and Xiaoou Tang.
+\newblock Deep learning face representation by joint
+  identification-verification.
+\newblock \emph{Advances in neural information processing systems}, pages
+  1988--1996, 2014.
+
+\bibitem[Szegedy et~al.(2015)Szegedy, Liu, Jia, Sermanet, Reed, Anguelov,
+  Erhan, Vanhoucke, and Rabinovich]{GoogleNet}
+Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir
+  Anguelov, Dumitru Erhan, Vincent Vanhoucke, and Andrew Rabinovich.
+\newblock Going deeper with convolutions.
+\newblock In \emph{Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 1--9, 2015.
+
+\bibitem[Zhang et~al.(2014)Zhang, Paluri, Ranzato, Darrell, and Bourdev]{panda}
+Ning Zhang, Manohar Paluri, Marc'Aurelio Ranzato, Trevor Darrell, and Lubomir
+  Bourdev.
+\newblock Panda: Pose aligned networks for deep attribute modeling.
+\newblock In \emph{Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 1637--1644, 2014.
+
+\bibitem[Zhong et~al.(2016)Zhong, Sullivan, and Li]{ClassificationCNN}
+Yang Zhong, Josephine Sullivan, and Haibo Li.
+\newblock Face attribute prediction using off-the-shelf cnn features.
+\newblock pages 1--7, 2016.
+
+\end{thebibliography}
